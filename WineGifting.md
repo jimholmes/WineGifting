@@ -12,8 +12,6 @@
 
 ### Growing and Production
 
-### Regions
-
 ### Major Grape Types
 
 **Reds**
@@ -30,6 +28,21 @@
 * Sangiovese
 * Temperanillo
 
+	
+**Whites**
+
+* **Chardonnay:** Perhaps the best-known, widest cultivated white wine grape. Grown around the world and produced in a great many styles from steely Chablis to heavily oaked, buttery California chardonnay.
+* **Chenin blanc:** Less-known white wine grape grown primarily in France and the USA. Aromatic and with good acidity. It can be produced as a rich, heavy, dry wine, but also produces some of the world's best dessert wines in areas like Quarts du Chaume.
+* Sauvinon blanc
+* Pinot blanc
+* Gewurztraminer
+* Pinot Gris
+* Riesling
+* Gruener veltliner
+
+
+### Regions
+
 **Red Blends/Regions**
 
 * French
@@ -45,18 +58,6 @@
 * Spanish
 	* Rijoa
 
-	
-**Whites**
-
-* **Chardonnay:** Perhaps the best-known, widest cultivated white wine grape. Grown around the world and produced in a great many styles from steely Chablis to heavily oaked, buttery California chardonnay.
-* **Chenin blanc:** Less-known white wine grape grown primarily in France and the USA. Aromatic and with good acidity. It can be produced as a rich, heavy, dry wine, but also produces some of the world's best dessert wines in areas like Quarts du Chaume.
-* Sauvinon blanc
-* Pinot blanc
-* Gewurztraminer
-* Pinot Gris
-* Riesling
-* Gruener veltliner
-
 **White Blends/Regions**
 
 * French
@@ -65,6 +66,7 @@
 	* Sancerre
 * Italian
 	* Soave
+
 
 ### Styles of Wine
 
