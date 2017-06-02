@@ -12,6 +12,25 @@
 
 ### Growing and Production
 
+**TODO: Rough skeleton. Finish text, edit.**
+
+Wine is fermented.
+
+Grapes grow in vineyards, hostage to weather. Longer they're on the vine, more sugar is produced in the grape.
+
+Grapes harvested, pressed, then fermented using yeast. Some chemicals such as sulfur may be added.
+
+Fermentation turns sugar in to alcohol. Higher sugar in grape means higher *potential* alcohol&mdash;producer may decide to leave some of the sugar unfermented, leaving natural or "residual" sugar in the wine. This can be off-dry (slightly sweet), sweet, or very sweet depending on how the grower and producer handle the grapes.
+
+Wines may be fermented in oak, plastic, or stainless steel vats. Oak may be new, which lends vanilla-like flavors, body, and tannins. Old or "neutral" oak may be used also. Less impact on flavor/tannins.
+
+Some wines are barrel aged to give more oak characteristics.
+
+Wines are then bottled and may be stored. 
+
+Many producers "filter" wines as they're transferred. This separates out yeast lees (remnants) and other organic material. Some producers leave their wines unfiltered, which adds to natural sediment that occurrs as wines age and settle. Unharmful.
+
+
 ### Major Grape Types
 
 **Reds**
@@ -43,6 +62,10 @@
 
 ### Regions
 
+Most wine-producing regions are known for a general style of wine produced from a set of grape types. Many wine regions are governed by rules defining what grapes must be used, vineyard yield limits, etc. These rules are meant to keep a baseline style and level of quality. Region-controlling rules vary widely by nation, and region within the nation.
+
+In some cases, the rules become overly restrictive and growers/producers in the areas will start their own styles. Italy's ["Super Tuscan"](https://en.wikipedia.org/wiki/Tuscan_wine#Super_Tuscans) wines are one example of this.
+
 **Red Blends/Regions**
 
 * French
@@ -61,18 +84,21 @@
 **White Blends/Regions**
 
 * French
-	* Chablis
-	* Burgundy
+	* **Burgundy:** The same region for red Burgundy. White Burgundy is primarily chardonnay. White burgundy is typically heavy bodied with moderate to heavy oak.
+	* **Chablis:** A sub-region within Burgundy. Primary grape is chardonnay. Little or no oak is used, leaving the wines cleanly representing the region's chalky, flinty nature.
 	* Sancerre
+* Germany
+	* Mosel
+	* Rhine
 * Italian
 	* Soave
 
 
 ### Styles of Wine
 
-* Still
-* Sparkling
-* Fortified
+* **Still:** Still wines are simply normal table wines that aren't sparkling.
+* **Sparkling:** At the risk of sounding trite, sparkling wines are those with bubbles. There are many different styles and regions which produce sparkling wines: Champagne, "cremant" from Alsace or the Loire, Spain's cava, and more. Sparkling wines undergo a secondary fermentation after the initial wine is bottled. This secondary fermentation produces the bubbles. 
+* **Fortified:** Fortified wines have a neutral spirit such as brandy added to them after their initial fermentation. This high alcohol spirit stops the fermentation by killing the yeast. Due to this fortified wines have a higher alcohol content and are generally sweeter. Fortified wines include port, sherry, and madiera.
 
 ### Sweet, Dry, Neither
 
@@ -81,6 +107,33 @@
 ## Food and Wine Pairing
 
 Don't freak out. Few bad pairings, few *great* ones.
+
+## Where to Purchase
+
+One of your biggest constraints for gifting wine is what options you have available to you for shopping.
+
+Keep in mind the vast majority of wine is not meant to store for years. The perception is "older wine is better!" however, that's unfortunately wrong in most cases. Wine is a living, surprisingly fragile product, ergo avoid bottles that have been on shelves or in a distributor's warehouse for years. Likewise, avoid bottles that have been in a store's front window exposed to direct sun!
+
+### Local Stores
+Your purchasing options are limited by what's available in your area. Importation and distribution of wine to stores in a nation, state, and region are constrained by a huge number of factors: import laws, alcohol regulations, distributor chains, and of course simple economics.
+
+Your absolute best option is to find a reliable retailer who you can get help with, especially if you're looking to further your interest in wine. A good wine seller can help guide you in options both for gifts and your own consumption.
+
+How do you find a good wine retailer? Look around. Ask other friends who are wine drinkers. See if you can find online reviews of nearby stores. By all means, go and visit stores and start up a conversation with the staff.
+
+You may be limited to grocery or similar stores in your area. Generally these outlets don't have wine specialists. In that case, you'll need to do research on your own. See what's on the shelf, then go back home and see what the Internet can help you with about producers, etc.
+
+You'll want to ask the staff at the stores about their stock turnover: just how long has that bottle been sitting on the shelf? If it's an old wine that's been in the store for years you'll likely want to look elsewhere...
+
+### Online Sales
+
+Online wine sales may be an option for you depending on where you live. 
+
+The advantages of online sales is generally the seller has some expertise and knowledge of their products. They can help guide you in your purchases.
+
+The downside of online sales is you'll have to pay shipping costs&mdash;and you'll be hostage to the weather. Don't accept shipments of wine in the middle of summer unless the seller guarantees your purchase will be protected via refrigerated truck or some other cooling method!
+
+
 
 ## Considerations for a Gift
 
@@ -91,15 +144,4 @@ Don't freak out. Few bad pairings, few *great* ones.
 	* Dinner party
 	* Life event
 	* Work
-
-## Where to Purchase
-
-Wine isn't meant to be stored in hot stores for years.
-
-What's available near you may not be elsewhere.
-
-* Bad stores: old wine in the window
-* Good stores: people know their product
-* Grocery stores: fast turnover
-
 
