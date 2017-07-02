@@ -20,7 +20,7 @@ Grapes grow in vineyards, hostage to weather. Longer they're on the vine, more s
 
 Grapes harvested, pressed, then fermented using yeast. Some chemicals such as sulfur may be added.
 
-Fermentation turns sugar in to alcohol. Higher sugar in grape means higher *potential* alcohol&mdash;producer may decide to leave some of the sugar unfermented, leaving natural or "residual" sugar in the wine. This can be off-dry (slightly sweet), sweet, or very sweet depending on how the grower and producer handle the grapes.
+Fermentation turns sugar in to alcohol. Higher sugar in grape means higher *potential* alcohol&mdash;the producer may decide to leave some of the sugar unfermented, leaving natural or "residual" sugar in the wine. This can be off-dry (slightly sweet), sweet, or very sweet depending on how the grower and producer handle the grapes.
 
 Wines may be fermented in oak, plastic, or stainless steel vats. Oak may be new, which lends vanilla-like flavors, body, and tannins. Old or "neutral" oak may be used also. Less impact on flavor/tannins.
 
@@ -101,6 +101,36 @@ In some cases, the rules become overly restrictive and growers/producers in the 
 * **Fortified:** Fortified wines have a neutral spirit such as brandy added to them after their initial fermentation. This high alcohol spirit stops the fermentation by killing the yeast. Due to this fortified wines have a higher alcohol content and are generally sweeter. Fortified wines include port, sherry, and madiera.
 
 ### Sweet, Dry, Neither
+
+Sweetness in wine can range from very sweet to completely dry. Percieved sweetness in wine comes from a number of factors. First off, and obviously, sweetness comes from residual sugar left over from the fermentation process. (You might consider re-reading the section on fermenting if needed!)
+
+Perceived sweetness can also come from the oak barrels a wine's fermented in, some of the flavors, the body of the wine, and other factors. That's why I call it 'perceived sweetness'&mdash;because it's not actual sugar.
+
+Focusing in on actual residual sugar, there are several broad categories we can evaluate:
+
+* **Sweet:** Many wonderful wines from around the world fall in this range. Many people will say "I don't like sweet wine!" without having tried a well-balanced sweet wine. Be sure to read the section on  A very short, partial list below runs from very sweet to just sweet.
+	* Icewine, made from frozen grapes (Germany, Canada, a few other places)
+	* Trockenbeerenauslese, made from dried raisin-like grapes harvested very late (Germany)
+	* Port, sweet sherries, Madiera, and other fortified wines
+	* Sauternes
+	* German Auslese
+	* Late harvest chenin blanc wines from France's Loire
+	* A wide range of sweet wines from Australia
+	* German Spaetlese
+	* Italian Moscato (and knock offs)
+
+
+* **Off-Dry:** These wines have a bit of residual sugar left in them. They're generally thought of as wonderful food wines, since the light sugar enables them to play across a range of dishes from seafoods to curries.
+
+	* French wines labeled "demi-sec"
+	* Some California chardonnays
+	* German Spaetlese and halb-Trocken (literally, "half-dry")
+	* Some Californian white zinfandel
+	* Some French wines such as chenin blanc or sauvignon blanc from the Loire
+	* Nouveau Boujolais
+	
+	 
+* **Dry:**
 
 ### Traits of Wine: Acidity, Tannins, Oak
 
